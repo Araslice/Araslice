@@ -4,7 +4,7 @@
 
 ## About me
 * NSU CompSci student🎓
-* Languages: Russian (Native), 🇺🇸English (C1/Advanced), Spanish (A1/Beginner)
+* Languages: Russian (Native), English (C1/Advanced), Spanish (A1/Beginner)
 * Cat and Machine learning enjoyer💻
 * Currently working on [BookTok](https://github.com/BookTok-Project), but always open to new projects🤗 
 * My motto<br/>
