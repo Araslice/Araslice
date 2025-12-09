@@ -28,16 +28,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Araslice&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Araslice&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<!--
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Araslice&limit=5&theme=omni&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Araslice&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in )
 
 
-<!--
+
 **Araslice/Araslice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
