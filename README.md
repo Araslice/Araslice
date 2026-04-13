@@ -4,8 +4,9 @@
 
 ## About me
 * NSU CompSci student🎓
+* Intern ML engineer (NLP department) at CFT👩‍💻
 * Languages: Russian (Native), English (C1/Advanced), Spanish (A1/Beginner)
-* Cat and Machine learning enjoyer💻
+* Cat and Machine learning enjoyer🤖
 * Currently working on [BookTok](https://github.com/BookTok-Project) and [Degree Paper](https://github.com/Araslice/nsu_diploma), but always open to new projects🤗
 * [My certificates](https://drive.google.com/drive/folders/1HnQf6daO7mEekx0vWFf7VGrf4r58mln0)
 * My motto<br/>
