@@ -3,11 +3,11 @@
 ![glorp](https://i.redd.it/bon4zz7wctzd1.gif)
 
 ## About me
-* NSU CompSci student🎓
-* Intern ML engineer (NLP department) at CFT👩‍💻
+* NSU CompSci graduate🎓
+* Worked as an ntern ML engineer (NLP department) at CFT👩‍💻
 * Languages: Russian (Native), English (C1/Advanced), Spanish (A1/Beginner)
 * Cat and Machine learning enjoyer🤖
-* Currently working on [BookTok](https://github.com/BookTok-Project) and [Degree Paper](https://github.com/Araslice/nsu_diploma), but always open to new projects🤗
+* Always open to new projects🤗
 * [My certificates](https://drive.google.com/drive/folders/1HnQf6daO7mEekx0vWFf7VGrf4r58mln0)
 * My motto<br/>
   ```python
